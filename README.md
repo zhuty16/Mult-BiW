@@ -20,6 +20,7 @@ The code has been tested running under Python 3.8. The required packages are as 
 
 ## Example to Run the Codes
 ```
-python main.py
+python MF.py --dataset amazon --lr 1e-4 --l2_reg 1e-6 --alpha -1.0 --eta 1.0
+python LightGCN.py --dataset amazon --lr 1e-3 --l2_reg 1e-6 --alpha -1.0 --eta 1.0 --num_layer 2
 ```
 
