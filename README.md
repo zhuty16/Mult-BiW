@@ -2,7 +2,7 @@
 
 This is our Tensorflow implementation for the paper:
 
->Tianyu Zhu, Jiandong Ding, Yansong Shi, Guoqing Chen, Jian-Yun Nie. "Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting."
+>Tianyu Zhu, Jiandong Ding, Yansong Shi, Guoqing Chen, Jian-Yun Nie. "Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting." ACM Transactions on Information Systems (2026).
 
 ## Introduction
 Mult-BiW is a framework for popularity debiasing in item recommendation.
